@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Qihang Zheng - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
