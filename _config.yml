@@ -43,3 +43,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
+# Exclude unwanted pages
+exclude:
+  - _projects/2021-radio-rendering.md
+  - _projects/2022-trig-analysis.md
+  - _projects/2023-spaceship-design.md
